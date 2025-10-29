@@ -1,6 +1,12 @@
 {
-  "TOKEN": "tokenin",
+  "TOKEN": "tokenini girsenee la",
   "PREFIX": "!",
+  "KOMUTLAR": {
+    "SEVIYE_SISTEMI": "seviyesistemi",
+    "SEVIYE_KANALI_AYARLA": "seviyekanaliayarla",
+    "RANK": "rank",
+    "YARDIM": "yardim" 
+  },
   "XP_AYARLARI": {
     "MIN_XP_KAZANCI": 15,
     "MAX_XP_KAZANCI": 25,
@@ -12,6 +18,7 @@
     "LEVEL_KAPANDI": "❌ Seviye sistemi bu sunucuda başarıyla **KAPATILDI**.",
     "KANAL_AYARLANDI": "💬 Seviye atlama duyuruları için kanal başarıyla {channel} olarak ayarlandı.",
     "YETKI_YOK": "⛔ Bu komutu kullanmak için `Yönetici` yetkisine sahip olmalısınız.",
-    "KANAL_BULUNAMADI": "Kanal bulunamadı veya geçersiz bir kanal belirttiniz."
+    "KANAL_BULUNAMADI": "Kanal bulunamadı veya geçersiz bir kanal belirttiniz.",
+    "KULLANICI_BULUNAMADI": "Kullanıcı veri tabanında bulunamadı. Lütfen bir mesaj yazarak XP kazanın."
   }
 }
