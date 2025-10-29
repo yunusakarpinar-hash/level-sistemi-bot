@@ -1,0 +1,12 @@
+{
+  "TOKEN": "tokenin",
+  "PREFIX": "!",
+  "XP_AYARLARI": {
+    "MIN_XP_KAZANCI": 15,
+    "MAX_XP_KAZANCI": 25,
+    "SEVIYE_CARPANI": 100
+  },
+  "MESAJLAR": {
+    "SEVIYE_ATLANDI": "🎉 Tebrikler {user}! Seviye **{level}**'a ulaştın!"
+  }
+}
