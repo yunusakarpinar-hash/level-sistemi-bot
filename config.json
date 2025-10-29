@@ -7,6 +7,11 @@
     "SEVIYE_CARPANI": 100
   },
   "MESAJLAR": {
-    "SEVIYE_ATLANDI": "🎉 Tebrikler {user}! Seviye **{level}**'a ulaştın!"
+    "SEVIYE_ATLANDI": "🎉 Tebrikler {user}! Seviye **{level}**'a ulaştın!",
+    "LEVEL_ACILDI": "✅ Seviye sistemi bu sunucuda başarıyla **AÇILDI**.",
+    "LEVEL_KAPANDI": "❌ Seviye sistemi bu sunucuda başarıyla **KAPATILDI**.",
+    "KANAL_AYARLANDI": "💬 Seviye atlama duyuruları için kanal başarıyla {channel} olarak ayarlandı.",
+    "YETKI_YOK": "⛔ Bu komutu kullanmak için `Yönetici` yetkisine sahip olmalısınız.",
+    "KANAL_BULUNAMADI": "Kanal bulunamadı veya geçersiz bir kanal belirttiniz."
   }
 }
