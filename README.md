@@ -1,5 +1,4 @@
-Elbette, yalnızca Markdown formatında, kodu çevreleyen bloklar (     ) olmadan, saf metin olarak README.md içeriğini aşağıya ekliyorum:
-⚡ Seviye (Levelling) Botu Altyapısı - [Noise Development]
+⚡ Seviye (Levelling) Botu Altyapısı - 
 Bu proje, Discord sunucularınız için mesajlaşma tabanlı deneyim puanı (XP) ve seviye sistemi kurmanızı sağlayan, tamamiyle ayarlanabilir bir Discord.js altyapısıdır.
 🌟 Özellikler
  * Ayarlanabilir XP Sistemi: Kazanılan XP ve seviye atlamak için gereken XP miktarları config.json üzerinden kolayca değiştirilebilir.
@@ -40,7 +39,7 @@ Bu altyapı, geliştirmeniz için sağlam bir temel sunar:
  * Susturulan Kanallar: Bazı kanallarda (örneğin bot komut kanalları) XP verilmemesi için kontrol ekleyebilirsiniz.
  * XP Çarpanları: Belirli rollere veya kanallara özel daha fazla XP veren çarpanlar uygulayabilirsiniz.
 👤 Geliştirici
-Bu altyapı bexA tarafından Noise Development sunucusu için hazırlanmıştır.
+Bu altyapı bexA tarafından yapilmistir.
  * Geliştirici: bexA
  * Proje Adı: Seviye Botu Altyapısı
  * Versiyon: 1.0
